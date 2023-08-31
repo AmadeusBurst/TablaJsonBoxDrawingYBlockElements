@@ -13,8 +13,7 @@ Strings y archivos JSON.
 
 ¿De donde sacaste las tablas Unicode?:
 -
-De la Pagina Oficial de Unicode.org:
-- https://www.unicode.org/ucd/
+De la Pagina Oficial de Unicode.org: https://www.unicode.org/ucd
 Las tablas son The Unicode Standard, Version 15.0 especificamente:
 - The Unicode Standard, Version 15.0 (Box Drawing Range:2500-257F)
 - The Unicode Standard, Version 15.0 (Block Element Range:2580-259F)
